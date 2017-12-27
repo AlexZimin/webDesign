@@ -1,0 +1,54 @@
+body{
+	font: 16px Tahoma, sans-serif;
+	background: #EBEBEB;
+}
+main{
+	background: url("src/background.jpg");
+	width: 600px;
+	height: auto;
+	margin-top: 0;
+	margin-left: 370px;
+}
+footer{
+	background-color: white;
+	width: 600px;
+	margin-bottom: 0;
+	margin-left: 370px;
+}
+
+.ourMessage,.myMessage{
+	width: 250px;
+	height: auto;
+	margin-top: 10px;
+	box-shadow: 100px;
+	border-radius: 8px;
+	padding: 10px;
+}
+
+.ourMessage{
+	margin-left: 320px;
+	background: #EFFFDE; 
+}
+
+.myMessage{
+	margin-left: 10px;
+	background: #FFFFFF; 
+}
+/*Messages*/
+#ourFirst{
+	margin-left: 170px;
+	width:400px;
+}
+#myFirst{
+	width: 400px;
+}
+#mySecond,#myThreed,#myFive{
+	width:350px;
+}
+#ourSecond{
+	margin-left: 220px;
+	width:350px;
+}
+#myFourth{
+	width: 450px;
+}
